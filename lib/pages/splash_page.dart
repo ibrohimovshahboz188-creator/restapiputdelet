@@ -52,7 +52,7 @@ _callNextPage(){
         children: [
           Expanded(child: Center(
             child:
-            Text("MealMap", style: TextStyle(color: Colors.white, fontSize: 40, fontWeight: FontWeight.bold),),
+            Text("MealMapp", style: TextStyle(color: Colors.white, fontSize: 40, fontWeight: FontWeight.bold),),
           )),
           Text("All right reserved", style: TextStyle(color: Colors.white, fontSize: 16),),
           SizedBox(height: 20,)
